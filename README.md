@@ -1,5 +1,5 @@
 
-# 🚀 Python vs MongoDB Atlas
+🚀 Python vs MongoDB Atlas
 
 ## 
 ✨ Sobre o Projeto
