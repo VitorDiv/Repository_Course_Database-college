@@ -21,7 +21,8 @@ As seguintes tecnologias foram usadas na construção deste projeto:
 
 -----
 
-## ⚙️ Pré-requisitos
+## 
+⚙️ Pré-requisitos
 
 Antes de começar, certifique-se de ter o Python 3.x instalado em sua máquina. Além disso, você precisará de uma instância do MongoDB acessível (local ou em nuvem, como o MongoDB Atlas).
 
