@@ -19,16 +19,16 @@ As seguintes tecnologias foram usadas na construção deste projeto:
   * **python-dotenv**: Uma biblioteca para carregar variáveis de ambiente de um arquivo `.env`.
   * **Python 3.x**
 
------
 
 ## 
 ⚙️ Pré-requisitos
 
 Antes de começar, certifique-se de ter o Python 3.x instalado em sua máquina. Além disso, você precisará de uma instância do MongoDB acessível (local ou em nuvem, como o MongoDB Atlas).
 
------
 
-## 🚀 Instalação e Execução
+
+## 
+🚀 Instalação e Execução
 
 Siga os passos abaixo para configurar e rodar o projeto localmente:
 
@@ -94,9 +94,10 @@ Siga os passos abaixo para configurar e rodar o projeto localmente:
     Você pode acessar a documentação interativa (Swagger UI) em `http://127.0.0.1:8000/docs`.
     Ou a documentação ReDoc em `http://127.0.0.1:8000/redoc`.
 
------
 
-## 📁 Estrutura do Projeto
+
+## 
+📁 Estrutura do Projeto
 
 A estrutura do projeto está organizada da seguinte forma:
 
@@ -123,9 +124,9 @@ A estrutura do projeto está organizada da seguinte forma:
 └── README.md               # Este arquivo
 ```
 
------
 
-## 📡 Endpoints da API
+## 
+📡 Endpoints da API
 
 A documentação interativa da API (Swagger UI) está disponível em `http://127.0.0.1:8000/docs`, onde você pode testar todos os endpoints.
 
@@ -137,9 +138,9 @@ Exemplo de endpoints comuns (ajuste conforme seu projeto):
   * **PUT /users/{id}**: Atualiza um usuário existente.
   * **DELETE /users/{id}**: Exclui um usuário.
 
------
 
-## 🔒 Variáveis de Ambiente
+## 
+🔒 Variáveis de Ambiente
 
 O projeto utiliza o pacote `python-dotenv` para carregar variáveis de ambiente do arquivo `.env`. Este arquivo **NÃO** deve ser versionado no Git por conter informações sensíveis.
 
