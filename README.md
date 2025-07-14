@@ -4,7 +4,7 @@
 ## 
 Sobre o Projeto
 
-ste projeto é uma API RESTful construída com FastAPI focada em operações de pesquisa (GET) e criação (POST) de dados em um banco de dados MongoDB. Utiliza o Pymongo como driver para a comunicação com o MongoDB e o Uvicorn como servidor web assíncrono. As configurações sensíveis, como a string de conexão do banco de dados, são gerenciadas de forma segura com python-dotenv.
+este projeto é uma API RESTful construída com FastAPI focada em operações de pesquisa (GET) e criação (POST) de dados em um banco de dados MongoDB. Utiliza o Pymongo como driver para a comunicação com o MongoDB e o Uvicorn como servidor web assíncrono. As configurações sensíveis, como a string de conexão do banco de dados, são gerenciadas de forma segura com python-dotenv.
 É uma solução leve e performática para construir APIs modernas em Python.
 
 ## 
